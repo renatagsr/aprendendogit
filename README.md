@@ -14,6 +14,7 @@ Pasta localizada no GITHUB.
 
 Para saber mostrar os arquivos que foram modificados no servidor dar `git status`, se estiver em vermelho o arquivo foi modificado porém não está no servidor. Para adicionar essa modificação fazer `git add nome do arquivo`, dessa forma irá parecer em verde se der o `git status`. 
 Se fizer `git commit -m "Mensagem"` da próxima vez irá aparecer o que foi modificado nessa adição. 
+Para colocar as modificações no GITHUB, após seguir todos esses passo, coloca o comando `git push origin master`.
 
 ### Como direcionar o GIT local para o servidor (a primeira vez)
 
